@@ -1,0 +1,63 @@
+body, h1, p, ul, li{
+	margin: 0;
+	padding: 0;
+}
+
+a{
+	text-decoration: none;
+}
+
+ul{
+	list-style: none;
+}
+
+body{
+	background: #FFF2E3;
+	font: 14px/1.4 Arial;
+	text-align: center;
+}
+
+.btn{
+	display: inline-block;
+	background: #8EC3A0;
+	padding: 7px 14px;
+	color: #fff;
+	border-radius: 2px;
+}
+
+.btn:hover{
+	opacity: 0.7;
+}
+
+.btn:active{
+	opacity: 1;
+}
+
+.title{
+	color: #87968E;
+	margin-top: 32px;
+	font-size: 42px;
+}
+
+.description{
+	color: #B7BBB0;
+	margin-top: 26px;
+}
+
+.project_ct>li{
+	display: inline-block;
+	padding: 40px 3px;
+}
+
+.more_ct>li{
+	display: inline-block;
+	padding: 32px 4px;
+}
+
+.footer{
+	color: #8796A3;
+}
+
+.footer a{
+	color: #8EC3A0;
+}
